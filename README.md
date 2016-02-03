@@ -15,7 +15,8 @@ Provide an open and simple job application format for a particular tech communit
 # Proposal
 
  - 1. Create a GitHub repository for your community.
- - 2. Add an issues for each job available.
+ - 2. Configure Milestones and Labels
+ - 3. just it...
 
 # Configuring GitHub Issues
 
