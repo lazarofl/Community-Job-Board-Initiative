@@ -1,3 +1,9 @@
+# Commmunity Job Boards available
+
+ - [FrontEndBR Vagas - Brazilian FrontEnd Community Job Board ](https://github.com/frontendbr/vagas)
+
+-----
+
 Add a job in a job board is bad, apply for them is worse.
 
 There is a lot of websites fighting for a job post and user registration. Companies must register in a lot of websites (some of them are paid), all of it is very frustrating.
@@ -96,9 +102,7 @@ Add an issue, with job function as title and description template above.
 
 # How to contribute?
 
-## Create a community job board repository and share with us.
-
- - [FrontEndBR Vagas - Brazilian FrontEnd Community Job Board ](https://github.com/frontendbr/vagas)
+Create a community job board repository and share with us.
 
 ## Generators
 
