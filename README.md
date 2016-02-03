@@ -4,7 +4,7 @@ There is a lot of websites fighting for a job post and user registration. Compan
 
 The frustration occurs for those who apply for these jobs either. Candidates must complete a huge form with all the information that's already in its curriculum:\\, just to upload its curriculum and write a summary of its life, copied from curriculum...
 
-# Community Job Board Iniciative
+# Community Job Board Initiative
 
 The **Community Job Board Initiative** started when some [brazilian developers were discussing about](https://github.com/frontendbr/forum/issues/15) how all of it is boring and were trying to find a [KISS](https://people.apache.org/~fhanik/kiss.html) solution.
 
