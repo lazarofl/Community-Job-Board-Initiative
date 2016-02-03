@@ -52,7 +52,7 @@ Define jobs _skills_
 
 Add an issue, with job function as title and description template above.
 
-### Description tempalte
+### Description template
 
 > #### Job Description
 > We need a senior NodeJS developer that....
