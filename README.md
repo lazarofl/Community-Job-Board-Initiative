@@ -10,7 +10,7 @@ The **Community Job Board Initiative** started when some [brazilian developers w
 
 # The Initiative
 
-Provide an open and simple format for job application for a particular tech community using open source perspective.
+Provide an open and simple job application format for a particular tech community using an open source perspective.
 
 # Proposal
 
