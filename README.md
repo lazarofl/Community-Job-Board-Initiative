@@ -30,7 +30,7 @@ Provide an open and simple job application format for a particular tech communit
 
 Define _locals_ where jobs are available
 
-- [x] Remoto
+- [x] Remote
 - [x] São Paulo
 - [x] New York
 - [x] London
